@@ -1,2 +1,2 @@
-# Iniciando-com-Bootstrap
-Dando inicio ao bootstrap
+# Bootstrap
+Começaremos um pequeno curso de bootstrap com a finalidade de aprendizado.
