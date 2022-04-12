@@ -1,3 +1,20 @@
+body{
+	font: 20px Arial, sans-serif;
+}
 .navbar{
-	background-color: black;
+	background-color: lime;
+}
+.home-index{
+	background-color: #F7ED28;
+	color: black;
+}
+.margin{
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.parceiros{
+	background-color: blue;
+}
+.servicos{
+	background-color: gray;
 }
