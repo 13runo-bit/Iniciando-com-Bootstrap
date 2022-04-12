@@ -9,7 +9,7 @@ body{
 	color: black;
 }
 .margin{
-	padding-top: 30px;
+	padding-top: 10px;
 	padding-bottom: 30px;
 }
 .parceiros{
@@ -17,4 +17,14 @@ body{
 }
 .servicos{
 	background-color: gray;
+}
+.rodape{
+	background-color: purple;
+	color: white;
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+.logohome{
+	padding-left:10px;
+	padding-right:10px
 }
